@@ -104,11 +104,19 @@ const MANUAL_ALBUMS = [
 		tags: ["1girl","all_fours","animal_ears","anklet","arm_up","armpits","arms_up","ass","back","back_tattoo","bare_legs","bare_shoulders","barefoot","bdsm","bell","black_choker","black_hair","blue_gloves","blunt_bangs","blurry","blurry_background","bondage","bound","bound_wrists","bow","breasts","brown_footwear","censored","cherry_blossoms","choker","cleavage","clothes_lift","collarbone","covered_nipples","cowboy_shot","detached_sleeves","dress","dress_lift","feet","feet_up","female_masturbation","female_pubic_hair","floral_print","flower","flower_tattoo","food","foreshortening","fox_mask","from_behind","fruit","full_body","fundoshi","gag","gloves","hair_bow","hair_flower","hair_ornament","hand_on_own_chest","hand_on_own_hip","head_tilt","heart_pasties","holding","indoors","japanese_clothes","jewelry","jingle_bell","kimono","kneeling","lantern","large_breasts","leg_up","legs","legs_up","lifted_by_self","lips","long_hair","looking_at_viewer","looking_back","lying","mask","mask_on_head","masturbation","mole","mole_under_eye","mosaic_censoring","mouth_hold","nail_polish","neck_bell","nipples","no_panties","no_shoes","obi","off_shoulder","okobo","on_back","on_one_knee","on_side","on_stomach","one_eye_closed","panties","pantyhose","pantyshot","parted_lips","pasties","pink_bow","pink_eyes","pink_nails","pointy_ears","ponytail","pubic_hair","purple_eyes","purple_gloves","pussy","realistic","red_footwear","red_kimono","red_lips","red_nails","red_rope","restrained","ribbon","rope","sandals","sash","see-through","seiza","sex_toy","shibari","shoes","short_hair","short_kimono","sideboob","single_glove","sitting","skirt","smile","soles","solo","spread_legs","spread_pussy","squatting","standing","string","tatami","tattoo","thighhighs","thighs","thong","tiptoes","toenail_polish","toenails","toes","tongue","tongue_out","twintails","uncensored","underwear","unworn_panties","very_long_hair","wariza","white_panties","white_pantyhose","white_thighhighs","yokozuwari"]
 	},
 	{
-		id: "Artist_-_Character",
-		name: "Artist - Character",
+		id: "tg_sparkle",
+		name: "slutty sparkle",
 		url: `
 		tg://chat/-1004294815574?cover=62&messages=65,63,62,61,60,59,58,57,56,55,54,53,52,51,50,49,48,47,46,45,44,43,42,41,40,39,38,37,36,35,34,33,32,31,30,29,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2
 		`.trim(),
 		tags: ["artist","character"]
+	},
+	{
+		id: "tg_eula",
+		name: "slutty eula",
+		url: `
+		tg://chat/-1003994311354?cover=84&messages=84,83,82,81,80,79,78,77,76,75,74,73,72,71,70,69,68,67,66,65,64,63,62,61,60,59,58,57,56,55,54,53,52,51,50,49,48,47,46,45,44,43,42,41,40,39,38,37,36,35,34,33,32,31,30,29,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2
+		`.trim(),
+		tags: []
 	}
 ];
